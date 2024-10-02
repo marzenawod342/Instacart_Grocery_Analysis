@@ -1,4 +1,4 @@
-# Instacart_Grocery_Analysis
+# Instacart Grocery Analysis
 
 ## Project Summary
 This project involves analyzing data for Instacart (IC) to develop marketing and advertising strategies. The analysis delves into the diverse customer base and their buying habits, aiming to pinpoint unique customer groups.These findings will enable Instacart to customize its marketing efforts to effectively target and engage the appropriate customer groups, thereby enhancing product sales. Please note that the customer data is fictional and is used exclusively for Career Foundry’s Data Analytics program.
